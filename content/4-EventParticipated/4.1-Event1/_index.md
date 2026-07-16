@@ -91,6 +91,6 @@ Attending **"FCAJ Community Day"** was a valuable opportunity to hear real-world
 - Moving AI from demo to enterprise production requires deliberate planning around security, compliance, and cost — it is a fundamentally different challenge than building a prototype.
 
 #### Some event photos
-![Check-in tại sự kiện FCAJ](/images/4-EventParticipated/event1/checkin.jpg)
+{{< img src="images/4-EventParticipated/event1/checkin.jpg" alt="Check-in tại sự kiện FCAJ" >}}
 
 > Overall, the event provided both practical AI engineering knowledge and a grounded, realistic view of what it takes to bring AI solutions from demo to enterprise-grade production.

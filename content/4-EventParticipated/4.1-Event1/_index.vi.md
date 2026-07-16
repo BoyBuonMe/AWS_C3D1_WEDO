@@ -91,6 +91,6 @@ Tham gia **"FCAJ Community Day"** là một cơ hội quý giá để được n
 - Đưa AI từ demo lên production doanh nghiệp đòi hỏi phải lên kế hoạch kỹ lưỡng về bảo mật, compliance và chi phí — đây là một bài toán hoàn toàn khác so với việc xây dựng một bản demo.
 
 #### Một số hình ảnh sự kiện
-![Check-in tại sự kiện FCAJ](/images/4-EventParticipated/event1/checkin.jpg)
+{{< img src="images/4-EventParticipated/event1/checkin.jpg" alt="Check-in tại sự kiện FCAJ" >}}
 
 > Nhìn chung, sự kiện không chỉ mang lại kiến thức kỹ thuật thực chiến về AI mà còn giúp có cái nhìn thực tế và rõ ràng hơn về những gì cần thiết để đưa giải pháp AI từ demo lên production đạt chuẩn doanh nghiệp.

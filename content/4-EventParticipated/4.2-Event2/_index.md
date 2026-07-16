@@ -77,6 +77,6 @@ Attending **"FCAJ Community Day"** once again was a valuable opportunity to lear
 - Continuous learning and exposure to real projects help shape a clearer roadmap for personal skill and project development.
 
 #### Event Photos
-![Check-in tại sự kiện FCAJ](/images/4-EventParticipated/event4/checkin.jpg)
+{{< img src="images/4-EventParticipated/event4/checkin.jpg" alt="Check-in tại sự kiện FCAJ" >}}
 
 > Overall, the event provided practical AWS knowledge alongside inspiring real-world product stories, helping build a stronger foundation for future development work and personal project planning.
