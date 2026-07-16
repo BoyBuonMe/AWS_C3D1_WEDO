@@ -11,7 +11,7 @@
 ![ECS Fargate](https://img.shields.io/badge/DEPLOY-ECS%20FARGATE-FF9900?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/DATABASE-MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-[🌐 Báo cáo Workshop cá nhân](#) | [🎥 Video Demo](https://drive.google.com/file/d/16eH8pwz3igM2FXp424WUPNWnJZ4nBn-2/view) | [📄 Trải nghiệm WeDo Workspace ](http://wedo-frontend-2026.s3-website-ap-southeast-1.amazonaws.com/)
+[🌐 Báo cáo Workshop cá nhân](https://boybuonme.github.io/AWS_C3D1_WEDO/) | [🎥 Video Demo](https://drive.google.com/file/d/16eH8pwz3igM2FXp424WUPNWnJZ4nBn-2/view) | [📄 Trải nghiệm WeDo Workspace ](http://wedo-frontend-2026.s3-website-ap-southeast-1.amazonaws.com/)
 
 </div>
 
@@ -96,11 +96,6 @@ wedo-workspace/
 └── README.md
 ```
 
-## 👥 Nhóm phát triển
-
-| Họ tên | Vai trò |
-|---|---|
-| ... | ... |
 
 ## 📄 Giấy phép
 
