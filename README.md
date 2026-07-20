@@ -11,7 +11,7 @@
 ![ECS Fargate](https://img.shields.io/badge/DEPLOY-ECS%20FARGATE-FF9900?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/DATABASE-MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-[🌐 Báo cáo Workshop cá nhân](https://boybuonme.github.io/AWS_C3D1_WEDO/) | [🎥 Video Demo](https://drive.google.com/file/d/16eH8pwz3igM2FXp424WUPNWnJZ4nBn-2/view) | [📄 Trải nghiệm WeDo Workspace ](http://wedo-frontend-2026.s3-website-ap-southeast-1.amazonaws.com/)
+[🌐 Báo cáo Workshop cá nhân](https://boybuonme.github.io/AWS_C3D1_WEDO/) | [🎥 Video Demo](https://drive.google.com/file/d/1s9kalH2X48LsQd9pEbulq9uHJEowk8cT/view?usp=sharing) | [📄 Trải nghiệm WeDo Workspace ](http://wedo-frontend-2026.s3-website-ap-southeast-1.amazonaws.com/)
 
 </div>
 
@@ -32,13 +32,13 @@
 
 ## 🛠️ Công nghệ sử dụng
 
-| Thành phần | Công nghệ |
-|---|---|
-| Frontend | ReactJS |
-| Backend | Java, Spring Boot |
-| Cơ sở dữ liệu | MySQL (Amazon RDS) |
-| Container hóa | Docker |
-| Hạ tầng triển khai | AWS ECS Fargate |
+| Thành phần         | Công nghệ          |
+| ------------------ | ------------------ |
+| Frontend           | ReactJS            |
+| Backend            | Java, Spring Boot  |
+| Cơ sở dữ liệu      | MySQL (Amazon RDS) |
+| Container hóa      | Docker             |
+| Hạ tầng triển khai | AWS ECS Fargate    |
 
 ## 🏗️ Kiến trúc hệ thống
 
@@ -60,18 +60,21 @@ Frontend và Backend được đóng gói thành container Docker riêng biệt,
 ## 🚀 Cài đặt & chạy dự án
 
 ### Yêu cầu
+
 - Java 17+
 - Node.js 18+
 - MySQL 8.0+
 - Maven
 
 ### Backend
+
 ```bash
 cd backend
 mvn spring-boot:run
 ```
 
 ### Frontend
+
 ```bash
 cd frontend
 npm install
@@ -79,7 +82,9 @@ npm start
 ```
 
 ### Cấu hình kết nối Database
+
 Chỉnh sửa file `application.properties` (hoặc `application.yml`) trong thư mục backend:
+
 ```properties
 spring.datasource.url=jdbc:mysql://localhost:3306/wedo_workspace
 spring.datasource.username=root
@@ -95,7 +100,6 @@ wedo-workspace/
 ├── docker-compose.yml
 └── README.md
 ```
-
 
 ## 📄 Giấy phép
 
